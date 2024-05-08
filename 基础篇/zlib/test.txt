@@ -1,0 +1,2102 @@
+remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> 
+remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> remote: Total 25 (delta 6), reused 21 (delta 2), pack-reused 0
+Unpacking objects: 100% (25/25), 4.08 MiB | 6.57 MiB/s, done.
+From https://github.com/13824041973/learn-xiaoManZS-node
+   758c893..c446ad6  master     -> origin/master
+Updating 758c893..c446ad6
+Fast-forward
+ cli/README.md                                      |   28 +
+ cli/index.js                                       |   42 +
+ cli/util.js                                        |   33 +
+ package-lock.json                                  | 3474 +++++++++++++++++++-
+ package.json                                       |   10 +-
+ .../crypto/inedx.js"                               |   81 +
+ .../ffmpeg/index.js"                               |   18 +
+ .../ffmpeg/test.mp4"                               |  Bin 0 -> 4238230 bytes
+ "\345\237\272\347\241\200\347\257\207/fs/index.js" |   23 +
+ "\345\237\272\347\241\200\347\257\207/fs/test.txt" | 1099 +++++++
+ 10 files changed, 4706 insertions(+), 102 deletions(-)
+ create mode 100644 cli/README.md
+ create mode 100644 cli/index.js
+ create mode 100644 cli/util.js
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/crypto/inedx.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/ffmpeg/test.mp4"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/index.js"
+ create mode 100644 "\345\237\272\347\241\200\347\257\207/fs/test.txt"
+PS E:\aboutCode\前端视频资料\小满\node> 
