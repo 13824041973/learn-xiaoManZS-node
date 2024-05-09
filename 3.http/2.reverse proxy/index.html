@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  </head>
+  <body>
+    <h1>测试反向代理</h1>
+  </body>
+  <script>
+    fetch("./api").then((res) => {
+      console.log("页面请求/api的返回：", res);
+    });
+  </script>
+</html>
