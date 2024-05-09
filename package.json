@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "bin": {
-    "LuyolG-cli": "cli/index.js"
+    "LuyolG-cli": "2.cli/index.js"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
