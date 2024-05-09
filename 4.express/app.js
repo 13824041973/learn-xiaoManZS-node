@@ -3,7 +3,10 @@ import express from "express";
 import User from './src/user.js'
 import List from './src/list.js'
 
+import loggerMiddleware from "./middleware/logger.js";
+
 const app = express();
+app.use(loggerMiddleware)
 app.use(express.json())
 app.use('/user', User)
 app.use('/list', List)
