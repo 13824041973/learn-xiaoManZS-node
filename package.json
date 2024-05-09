@@ -17,6 +17,7 @@
     "download-git-repo": "^3.0.2",
     "http-proxy-middleware": "^3.0.0",
     "inquirer": "^9.2.20",
+    "mime": "^4.0.3",
     "ora": "^8.0.1"
   }
 }
