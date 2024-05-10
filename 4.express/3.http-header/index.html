@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <h1>test</h1>
+    <script>
+      //   fetch("http://localhost:3000/info")
+      //     .then((res) => {
+      //       return res.json();
+      //     })
+      //     .then((res) => {
+      //       console.log(res);
+      //     });
+
+      //   fetch("http://localhost:3000/patch", {
+      //     method: "PATCH",
+      //   })
+      //     .then((res) => {
+      //       return res.json();
+      //     })
+      //     .then((res) => {
+      //       console.log(res);
+      //     });
+
+      //   fetch("http://localhost:3000/post", {
+      //     method: "POST",
+      //     headers: {
+      //       "Content-Type": "application/json",
+      //     },
+      //     body: JSON.stringify({ name: "luyolg" }),
+      //   })
+      //     .then((res) => {
+      //       return res.json();
+      //     })
+      //     .then((res) => {
+      //       console.log(res);
+      //     });
+
+      //   fetch("http://localhost:3000/get")
+      //     .then((res) => {
+      //       const header = res.headers;
+      //       console.log(header.get("luyolg"));
+      //       return res.json();
+      //     })
+      //     .then((res) => {
+      //       console.log(res);
+      //     });
+
+      const sse = new EventSource("http://localhost:3000/sse");
+      sse.addEventListener("message", (res) => {
+        console.log(res.data);
+      });
+
+      sse.addEventListener("text", (res) => {
+        console.log("test", res.data);
+      });
+    </script>
+  </body>
+</html>
