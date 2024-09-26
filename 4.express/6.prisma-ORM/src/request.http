@@ -22,9 +22,25 @@
 
 
 
-POST http://localhost:3000/delete HTTP/1.1
-Content-Type: application/json
+# POST http://localhost:3000/delete HTTP/1.1
+# Content-Type: application/json
 
-{
-    "id": 1
-}
+# {
+#     "id": 1
+# }
+
+
+
+
+GET http://localhost:3000/user/index HTTP/1.1
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MTAsIm5hbWUiOiJhc2Rhc2QiLCJlbWFpbCI6ImR3cWRxQHFkcS5jb20iLCJpYXQiOjE3MjczNzkwOTUsImV4cCI6MTcyNzk4Mzg5NX0.d6zyLn2AwGY6Ab1aaIIdNFS5F6O0RrfBwmN2RET-WBU
+
+
+# POST http://localhost:3000/user/create HTTP/1.1
+# Content-Type: application/json
+
+# {
+#     "name": "asdasd",
+#     "email": "dwqdq@qdq.com"
+# }
+
