@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <input type="file" id="file" />
+    <script>
+      const file = document.querySelector("#file");
+      file.addEventListener("change", (e) => {
+        const uploadFile = e.target.files[0]; // 获取文件信息
+        const chunks = chunksFun(uploadFile);
+        uploadFileFun(chunks);
+      });
+
+      // 给文件分片，默认1MB一块
+      function chunksFun(file, size = 1024 * 1024) {
+        const chunks = [];
+        for (let i = 0; i < file.size; i += size) {
+          chunks.push(file.slice(i, i + size));
+        }
+        return chunks;
+      }
+
+      function uploadFileFun(chunks) {
+        const list = [];
+        for (let i = 0; i < chunks.length; i++) {
+          const formData = new FormData();
+          formData.append("index", i);
+          formData.append("fileName", "testMP4");
+          formData.append("file", chunks[i]);
+          list.push(
+            fetch("http:127.0.0.1:3000/upload", {
+              method: "POST",
+              body: formData,
+            })
+          );
+        }
+
+        Promise.all(list).then((res) => {
+          fetch("http:127.0.0.1:3000/merge", {
+            method: "POST",
+            headers: {
+              "Content-Type": "application/json",
+            },
+            body: JSON.stringify({
+              fileName: "testMP4",
+            }),
+          }).then((res) => {
+            // console.log("@@@", res);
+          });
+        });
+      }
+    </script>
+  </body>
+</html>
