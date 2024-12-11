@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>授权页面</title>
+  </head>
+  <body>
+    <h1>授权页面</h1>
+    <div><button id="btn">同意</button></div>
+    <div><button>拒绝，本按钮无响应的</button></div>
+
+    <script>
+      const btn = document.getElementById("btn");
+      const userId = location.search.slice(1).split("=")[1];
+      btn.onclick = () => {
+        fetch(`/login/${userId}`, {
+          method: "POST",
+        })
+          .then((res) => res.json())
+          .then((data) => {
+            alert("授权成功");
+          })
+          .catch((err) => {
+            alert(err);
+          });
+      };
+    </script>
+  </body>
+</html>
