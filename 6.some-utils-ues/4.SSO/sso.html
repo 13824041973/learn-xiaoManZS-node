@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Login</title>
+  </head>
+  <body>
+    <form action="/protected" method="get">
+      <label for="username">
+        账号：<input type="text" name="username" id="username" />
+      </label>
+      <div></div>
+      <label for="password">
+        密码：<input type="password" name="password" id="password" />
+      </label>
+      <div></div>
+      <label for="appId"
+        ><input name="appId" value="" id="appId" type="hidden"
+      /></label>
+      <div></div>
+      <button type="submit" id="button">登录</button>
+    </form>
+
+    <script>
+      const appId = location.search.split("=")[1];
+      document.getElementById("appId").value = appId;
+    </script>
+  </body>
+</html>
